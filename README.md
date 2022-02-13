@@ -1,10 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c58c10a-17ff-43f9-856d-b6e3b8580fc5/deploy-status)](https://app.netlify.com/sites/optimally/deploys)
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/78247889/152684235-60095d84-b8c0-4d06-93c7-a50ae1d92bc1.png" width="240" height="275">
 </p>
 <h1 align="center">🧘🏽‍♂️ OptimAlly 🧘🏻‍♀️</h1>
 <h3 align="center">⭐ Star us on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
 
-## Preview: https://optimally.netlify.app/
+## Preview: https://optimally.netlify.app/ 
 
 ## The Problem it solves ☮️
 Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “OptimAlly” to help people to gain mental peace and stability.
@@ -71,3 +73,8 @@ https://drive.google.com/file/d/1hNQ_QOHMSy4r3l29TPQ62DT_E6MMJylG/view?usp=shari
 <p align="center">
     <img src="https://user-images.githubusercontent.com/55031190/153742276-40315f98-4e43-4be3-bfb4-faefd7ac13ae.png" width="800" height="400">
 </p>
+
+<a href="https://github.com/SairamNomula" target="_blank">
+<img src=https://img.shields.io/github/forks/SairamNomula/OptimAlly alt=github style="margin-bottom: 5px;" align="left"/>
+<img src=https://img.shields.io/github/stars/SairamNomula/OptimAlly?style=social alt=github style="margin-bottom: 5px;" align="right"/>
+</a>
