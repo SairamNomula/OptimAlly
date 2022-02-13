@@ -4,7 +4,6 @@ import { AiOutlineHome } from "react-icons/ai";
 import { GiCartwheel } from "react-icons/gi";
 import { GiMeditation } from "react-icons/gi";
 import { GrYoga } from "react-icons/gr";
-import { AiOutlineQuestionCircle } from "react-icons/ai";
 
 const BottomNav = () => {
     return (

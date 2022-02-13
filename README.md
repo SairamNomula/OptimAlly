@@ -5,7 +5,7 @@
 <h3 align="center">⭐ Star us on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
 
 ## Preview
-
+https://optimally.netlify.app/
 
 ## The Problem it solves ☮️
 Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “OptimAlly” to help people to gain mental peace and stability.
