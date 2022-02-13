@@ -3,11 +3,17 @@
 </p>
 <h1 align="center">🧘🏽‍♂️ OptimAlly 🧘🏻‍♀️</h1>
 <h3 align="center">⭐ Star us on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
-<p align='center'>Optimally desc</p>
+
+## The Problem it solves ☮️
+Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “OptimAlly” to help people to gain mental peace and stability.
+
+## Challenges we ran into 🕊️
+We faced numerous challenges throughout the journey. We used VSCode Live share. But we all were new to it. Sometimes it is the connection issues and sometimes it’s our lack of experience in Live Share feature. It took a lot of time to overcome this issue. After this we have faced issues while writing codes for responsive design. Sometimes the components were distorted and moved from their places. It took time to place them in their right position. Placing the elements in their position and designing for responsiveness was our big challenge.
    
+## How we built it!?🧠
+We used React.js in the frontend. We have used Lottie animation and Framer motion for some components like buttons and illustrations for our website. We used undraw website for some of the illustrations. We used VSCode live share and used Gmeet for further discussions on content and screens. We used spotify playlist's iframe link for meditaion screen. We used looka to design logo for our app.
 
-
-# Prerequisites 📑   
+## Prerequisites 📑   
   
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
@@ -39,10 +45,6 @@ npm start
 
 The Application Runs on **localhost:3000**
 
-# Features 🔌
-
-- Splash 
-
 ## Technologies we used 🛠️
     * ReactJS
     * HTML5
@@ -50,20 +52,8 @@ The Application Runs on **localhost:3000**
     * Javascript
     * NodeJS
 
-
-## The Problem it solves ☮️
-Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “Ment-Ally” to help people to gain mental peace and stability. It has helpful blogs, a Meditation guide with relaxing music, Yoga, and BMI Tracker. A person can use these to keep himself/herself occupied when feeling sick mentally.
-
-## Challenges we ran into 🕊️
-We faced numerous challenges throughout the journey. First, we have decided to work on VS-Code Live share. But we all were new to it. Sometimes it is the connection issues and sometimes it’s our lack of experience in Live Share feature. It took a lot of time to overcome this issue. After this we have faced issues while writing codes for responsive design. Sometimes the components were distorted and moved from their places. It took time to place them in their right position. Placing the elements in their position and designing for responsiveness was our big challenge. The next challenge which we have faced is domain configuration. This is the first time we are hosting our project on xyz domain. We don’t have any previous experience. We have hosted our project on GitHub pages, but this was completely different. We have to go through the documentation and follow the steps mentioned according to the project. But finally, we all can able to figure this out and did this. Along the process, we all have learned how to configure your project in a custom domain.
-
-## How we built OptimAlly 🛠️
-We used ReactJS in the frontend.
-
-
-    
-
-### Video: 🎥
-
-
-**DONE**
+## Screenshots 📸
+![image](https://user-images.githubusercontent.com/78247889/153740515-8eb0eb6e-a040-42b2-b75e-b49522612887.png)
+![image](https://user-images.githubusercontent.com/78247889/153740530-2a0e9776-0c26-46d9-99a1-0d66dd348a27.png)
+![image](https://user-images.githubusercontent.com/78247889/153740524-ef044a5f-e624-44ad-9764-6dc60b5ff890.png)
+![image](https://user-images.githubusercontent.com/78247889/153740539-c6bf3b1e-f33d-4ba2-990a-d4828cdf4806.png)
