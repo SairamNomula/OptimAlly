@@ -61,7 +61,7 @@ The Application Runs on **localhost:3000**
 ## Video
 https://drive.google.com/file/d/1VkpdDIDzDSbnLgFXC0swCfAZooIceEuB/view?usp=sharing
 
-### Hackathon Contributed to 🐱‍💻
+## Hackathon Contributed to 🐱‍💻
 <p align="center">
     <img src="https://user-images.githubusercontent.com/55031190/153742276-40315f98-4e43-4be3-bfb4-faefd7ac13ae.png" width="800" height="400">
 </p>
