@@ -68,13 +68,6 @@ The Application Runs on **localhost:3000**
 <!-- ![image](https://user-images.githubusercontent.com/78247889/153740524-ef044a5f-e624-44ad-9764-6dc60b5ff890.png) -->
 ![image](https://user-images.githubusercontent.com/78247889/153740539-c6bf3b1e-f33d-4ba2-990a-d4828cdf4806.png)
 
-## Video
-https://drive.google.com/file/d/1hNQ_QOHMSy4r3l29TPQ62DT_E6MMJylG/view?usp=sharing
-
-## Hackathon Contributed to 🐱‍💻
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/55031190/153742276-40315f98-4e43-4be3-bfb4-faefd7ac13ae.png" width="800" height="400">
-</p>
 
 <a href="https://github.com/SairamNomula" target="_blank">
 <img src=https://img.shields.io/github/forks/SairamNomula/OptimAlly alt=github style="margin-bottom: 5px;" align="left"/>
