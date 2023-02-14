@@ -10,16 +10,16 @@
 
 ## Preview: https://optimally.netlify.app/ 
 
-## The Problem it solves ☮️
+## The Problem it solves 
 Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “OptimAlly” to help people to gain mental peace and stability.
 
-## Challenges we ran into 🕊️
+## Challenges we ran into 
 We faced numerous challenges throughout the journey. We used VSCode Live share. But we all were new to it. Sometimes it is the connection issues and sometimes it’s our lack of experience in Live Share feature. It took a lot of time to overcome this issue. After this we have faced issues while writing codes for responsive design. Sometimes the components were distorted and moved from their places. It took time to place them in their right position. Placing the elements in their position and designing for responsiveness was our big challenge.
    
-## How we built it!?🧠
+## How we built it!?
 We used React.js in the frontend. We have used Lottie animation and Framer motion for some components like buttons and illustrations for our website. We used undraw website for some of the illustrations. We used VSCode live share and used Gmeet for further discussions on content and screens. We used spotify playlist's iframe link for meditaion screen. We used looka to design logo for our app.
 
-## Prerequisites 📑   
+## Prerequisites  
   
 ### Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
@@ -31,7 +31,7 @@ Install create-react-app npm package globally. This will help to easily run the 
 npm install -g create-react-app
 ```
 
-## Cloning and Running the Application in local 💻
+## Cloning and Running the Application in local 
 
 Clone the project in localhost
 ```bash
@@ -58,7 +58,7 @@ The Application Runs on **localhost:3000**
     * Javascript
     * NodeJS
 
-## Screenshots 📸
+## Screenshots 
 ![image](https://user-images.githubusercontent.com/78247889/153740515-8eb0eb6e-a040-42b2-b75e-b49522612887.png)
 <!-- ![image](https://user-images.githubusercontent.com/78247889/153740530-2a0e9776-0c26-46d9-99a1-0d66dd348a27.png) -->
 
